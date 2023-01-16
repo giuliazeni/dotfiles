@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = giuli.zeni@gmail.com
+	name = Giulia Zeni
